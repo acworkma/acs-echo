@@ -1,0 +1,26 @@
+{
+  "name": "acs-echo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acworkma/acs-echo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acworkma/acs-echo/issues"
+  },
+  "homepage": "https://github.com/acworkma/acs-echo#readme",
+  "dependencies": {
+    "@azure/communication-chat": "^1.2.1",
+    "@azure/communication-common": "^2.0.0",
+    "@azure/communication-identity": "^1.0.0",
+    "@azure/communication-signaling": "^1.0.0-beta.14"
+  }
+}
